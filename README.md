@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 💬 Ask me about **C++ and Python**
-
 
 <h3 align="left">Find me here:</h3>
 <p align="left">
