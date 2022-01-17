@@ -53,15 +53,6 @@
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   </a>
-  <a href="https://jupyter.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a>
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> 
   </a>
