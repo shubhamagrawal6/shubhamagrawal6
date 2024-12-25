@@ -8,13 +8,13 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="shubham-agrawal-a89493194" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/shubhamagrawal33" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="shubhamagrawal33" height="30" width="40" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="shubhamagrawal33" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/shubhamagrawal6" target="blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="shubhamagrawal6" height="30" width="40" />
   </a>
   <a href="https://www.hackerearth.com/@shubham5284" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@shubham5284" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@shubham5284" height="30" width="30" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/in/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> 
