@@ -88,6 +88,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
   </a>
 </p>
-
-
-[![Shubham's stats](https://github-readme-stats.vercel.app/api?username=shubhamagrawal6&hide=stars,issues&count_private=true&theme=merko&show_icons=true)](https://github.com/shubhamagrawal6/github-readme-stats)
