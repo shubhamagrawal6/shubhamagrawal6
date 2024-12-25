@@ -8,7 +8,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="shubham-agrawal-a89493194" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/shubhamagrawal33" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="shubhamagrawal33" height="30" width="40" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="shubhamagrawal33" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/shubhamagrawal6" target="blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="shubhamagrawal6" height="30" width="40" />
