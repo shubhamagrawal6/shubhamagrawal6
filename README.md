@@ -49,7 +49,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
   </a>
   <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
     <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask" width="40" height="40"/>
