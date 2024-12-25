@@ -5,16 +5,16 @@
 <h3 align="left">Find me here:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shubham-agrawal-a89493194" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="shubham-agrawal-a89493194" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="shubham-agrawal-a89493194" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/shubhamagrawal33" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shubhamagrawal33" height="30" width="40" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="shubhamagrawal33" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/shubhamagrawal6" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="shubhamagrawal6" height="30" width="40" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" alt="shubhamagrawal6" height="30" width="40" />
   </a>
   <a href="https://www.hackerearth.com/@shubham5284" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@shubham5284" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@shubham5284" height="30" width="40" />
   </a>
 </p>
 
